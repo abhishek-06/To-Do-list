@@ -1,0 +1,19 @@
+#ulTasks li.done {
+    color: #a1abb4;
+    text-decoration: line-through;
+    background-color: rgb(248, 250, 252);
+    font-weight: 80;
+  }
+
+
+.list-group-item-primary {
+    font-weight: 500;
+}
+
+nav {
+    background-color: rgb(240, 47, 85);
+    font-weight: 600;
+    font-size: 30px;
+    padding: 18px;
+    padding-left: 80px;
+}
